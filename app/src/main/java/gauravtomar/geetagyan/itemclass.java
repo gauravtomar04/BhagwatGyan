@@ -15,10 +15,4 @@ public class itemclass extends AppCompatActivity {
         setContentView( R.layout.activity_itemclass );
 
     }
-
-        @Override
-        protected void onStart() {
-        super.onStart();
-        Toast.makeText(getApplicationContext(),"Now onStart() calls", Toast.LENGTH_LONG).show(); //onStart Called
-    }
 }
