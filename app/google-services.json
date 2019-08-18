@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "518670900751",
+    "firebase_url": "https://bhagwat-geeta-gyan-a88b2.firebaseio.com",
+    "project_id": "bhagwat-geeta-gyan-a88b2",
+    "storage_bucket": "bhagwat-geeta-gyan-a88b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518670900751:android:fd782caa04f0ccdb",
+        "android_client_info": {
+          "package_name": "gauravtomar.geetagyan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518670900751-09m97ft7r035q7sbucl92qeqbsr2gcek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gauravtomar.geetagyan",
+            "certificate_hash": "6c6f1ee77f5071773dfcae74d970b921facd735e"
+          }
+        },
+        {
+          "client_id": "518670900751-8n1b68ad409o3trp9ck39irjks8e2c1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSfNoH_N7Uuelky19ri4D4wvRv-3ywuGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518670900751-8n1b68ad409o3trp9ck39irjks8e2c1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
