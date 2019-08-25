@@ -5,6 +5,8 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.RecyclerView;
+
 import com.google.firebase.database.ChildEventListener;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -19,6 +21,7 @@ public class Home extends AppCompatActivity {
     private DatabaseReference mref;
     ArrayList <String> arrayList = new ArrayList <>();
     ArrayList <String> mkey = new ArrayList <>();
+    //RecyclerView.Recycler
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
